@@ -3,7 +3,7 @@ qrcode
 opencv-python
 pyzbar
 pandas
-sqlite3
+sqlite
 datetime
 random
 os
